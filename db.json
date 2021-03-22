@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "bingus",
+      "image": "https://hg1.funnyjunk.com/large/movies/02/73/0273a2_7985994.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Strong Bad",
+      "image": "https://static.wikia.nocookie.net/cyangmod/images/e/ee/Strong_bad_render.png/revision/latest?cb=20191211014824",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "chester",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OkYhMa28L._RI_.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
